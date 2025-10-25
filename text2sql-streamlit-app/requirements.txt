@@ -1,0 +1,9 @@
+streamlit
+langchain
+ragas
+pymysql
+sentence-transformers
+transformers
+torch
+langchain-google-genai
+langchain-groq
